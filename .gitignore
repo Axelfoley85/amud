@@ -1,0 +1,8 @@
+
+
+#Ignore vscode AI rules
+.github/copilot-instructions.md
+
+.env
+
+/__pycache__/
