@@ -1,4 +1,4 @@
-from world import World
+from world.world import World
 
 class Game:
     def __init__(self):
